@@ -6,24 +6,20 @@
 
 I'm a passionate software developer with a keen interest in web development, open-source projects, and continuous learning. I love to explore new technologies and apply them to solve real-world problems.
 
-- 🌱 I’m currently learning **Machine Learning** and **AI**
-- 💬 Ask me about **JavaScript, Python, and Web Development**
 - 📫 How to reach me: [adistianherlambang@gmail.com](mailto:adistianherlambang@gmail.com)
-- ⚡ Fun fact: I enjoy playing chess and hiking
 
 ## Skills
 
 ### Programming Languages
 - **JavaScript**
-- **Python**
-- **Java**
-- **C++**
+- **TypeScript**
 
 ### Web Development
 - **HTML**
 - **CSS**
 - **React**
 - **Node.js**
+- **NextJS**
 
 ### Tools & Technologies
 - **Git & GitHub**

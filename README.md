@@ -29,7 +29,9 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 ## GitHub Stats
 
-![Adistian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adistianherlambang&show_icons=true&theme=radical)
+<div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Contributions" />
+</div>
 
 ## Top Languages
 

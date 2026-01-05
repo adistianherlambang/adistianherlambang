@@ -1,7 +1,5 @@
 # Hi there, I'm Adistian Herlambang 👋
 
-![Profile views](https://gpvc.arturio.dev/adistianherlambang)
-
 ## About Me
 
 I'm a passionate software developer with a keen interest in web development, open-source projects, and continuous learning. I love to explore new technologies and apply them to solve real-world problems.
@@ -25,12 +23,16 @@ I'm a passionate software developer with a keen interest in web development, ope
 - **Git & GitHub**
 - **Docker**
 - **Kubernetes**
+- **Jenkins**
 - **CI/CD**
 
 ## GitHub Stats
 
 <div align="center">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Contributions" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=adistianherlambang&theme=radical&layout=compact" alt="Hoang Son's GitHub Contributions" />
+</div>
+<div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=adistianherlambang&theme=radical&layout=compact" alt="Hoang Son's GitHub Contributions" />
 </div>
 
 ## Top Languages

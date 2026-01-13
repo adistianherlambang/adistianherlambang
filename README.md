@@ -36,6 +36,8 @@ I'm a passionate software developer with a keen interest in web development, ope
     <img src="https://github-contribution-stats.vercel.app/api/?username=adistianherlambang&theme=radical&layout=compact" alt="Adistian's GitHub Contributions" />
 </div>
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adistianherlambang&layout=compact&theme=radical)

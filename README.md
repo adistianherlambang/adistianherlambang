@@ -30,7 +30,12 @@ Learning has no limits, and neither does my imagination, and thats what gives me
 
 ## Top Languages
 
-![Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adistianherlambang)
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adistianherlambang" 
+    alt="Adistian's Most Used Language" 
+  />
+</div>
 
 ## Connect with Me
 

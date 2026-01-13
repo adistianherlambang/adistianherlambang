@@ -6,8 +6,8 @@ I am a Computer Science student at Universitas Muhammadiyah Metro with a strong 
 
 Learning has no limits, and neither does my imagination, and thats what gives me my hunger for learning.
 
-![Role](https://img.shields.io/badge/Role-Fullstack%20Developer-blue)
-![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20Firebase-orange)
+![Build](https://img.shields.io/badge/Build-Production--Ready-success)
+![Focus](https://img.shields.io/badge/Focus-SaaS%20%7C%20Smart%20System-blue)
 
 <div align="center">
   <img src="https://github.githubassets.com/images/mona-whisper.gif" />
@@ -27,6 +27,11 @@ Learning has no limits, and neither does my imagination, and thats what gives me
 - **Node.js**
 - **NextJS**
 - **FastAPI**
+
+### Database
+- **MySQL**
+- **MongoDB**
+- **Firebase**
 
 ### AI&ML
 - **Tensorflow**

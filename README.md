@@ -6,16 +6,12 @@ I am a Computer Science student at Universitas Muhammadiyah Metro with a strong 
 
 Learning has no limits, and neither does my imagination, and thats what gives me my hunger for learning.
 
-<p align="center">
-  <a href="https://travis-ci.org/LordDashMe/github-contribution-stats">
-    <img src="https://img.shields.io/travis/com/LordDashMe/github-contribution-stats?style=for-the-badge" />
-  </a>
-  <a href="https://coveralls.io/github/LordDashMe/github-contribution-stats?branch=master">
-    <img src="https://img.shields.io/coveralls/github/LordDashMe/github-contribution-stats?style=for-the-badge" />
-  </a>
-</p>
+![Role](https://img.shields.io/badge/Role-Fullstack%20Developer-blue)
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20Firebase-orange)
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" />
+<div align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" />
+</div>
 
 - 📫 How to reach me: [adistianherlambang@gmail.com](mailto:adistianherlambang@gmail.com)
 

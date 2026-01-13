@@ -2,7 +2,20 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in web development, open-source projects, and continuous learning. I love to explore new technologies and apply them to solve real-world problems.
+I am a Computer Science student at Universitas Muhammadiyah Metro with a strong background in front-end development, WordPress development, and leadership. Since 2021, I have worked as a Graphic Designer and am currently transitioning into a Fullstack Developer. My experience includes leading the Genius Developer IT Club, achieving top placements in design competitions, and earning awards in entrepreneurship and innovation. I am passionate about creating impactful digital solutions while continuously improving my technical and leadership skills.
+
+Learning has no limits, and neither does my imagination, and thats what gives me my hunger for learning.
+
+<p align="center">
+  <a href="https://travis-ci.org/LordDashMe/github-contribution-stats">
+    <img src="https://img.shields.io/travis/com/LordDashMe/github-contribution-stats?style=for-the-badge" />
+  </a>
+  <a href="https://coveralls.io/github/LordDashMe/github-contribution-stats?branch=master">
+    <img src="https://img.shields.io/coveralls/github/LordDashMe/github-contribution-stats?style=for-the-badge" />
+  </a>
+</p>
+
+<img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
 - 📫 How to reach me: [adistianherlambang@gmail.com](mailto:adistianherlambang@gmail.com)
 
@@ -35,8 +48,6 @@ I'm a passionate software developer with a keen interest in web development, ope
 <div align="center">
     <img src="https://github-contribution-stats.vercel.app/api/?username=adistianherlambang&theme=radical&layout=compact" alt="Adistian's GitHub Contributions" />
 </div>
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## Top Languages
 

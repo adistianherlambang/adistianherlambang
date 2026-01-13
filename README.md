@@ -13,8 +13,6 @@ Learning has no limits, and neither does my imagination, and thats what gives me
   <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 </div>
 
-- 📫 How to reach me: [adistianherlambang@gmail.com](mailto:adistianherlambang@gmail.com)
-
 ## Skills
 
 ### Programming Languages

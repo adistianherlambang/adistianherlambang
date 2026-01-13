@@ -17,7 +17,7 @@ Learning has no limits, and neither does my imagination, and thats what gives me
 
 ![Stack](https://img.shields.io/badge/Stack-JS%20%7C%20TS%20%7C%20Python-blue)
 ![Web](https://img.shields.io/badge/Web-React%20%7C%20Next.js%20%7C%20Node.js-success)
-![Backend](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Firebase-green)
+![Backend](https://img.shields.io/badge/Backend-Express.js%20%7C%20FastAPI%20%7C%20Firebase-green)
 ![DB](https://img.shields.io/badge/DB-MySQL%20%7C%20MongoDB-orange)
 ![AI](https://img.shields.io/badge/AI-TensorFlow%20%7C%20LLM-purple)
 ![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-black)

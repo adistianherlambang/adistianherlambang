@@ -32,6 +32,7 @@ Learning has no limits, and neither does my imagination, and thats what gives me
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adistianherlambang&layout=compact&theme=radical)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Lang](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adistianherlambang&layout=compact)
 
 ## Connect with Me
 

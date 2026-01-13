@@ -11,18 +11,22 @@ I'm a passionate software developer with a keen interest in web development, ope
 ### Programming Languages
 - **JavaScript**
 - **TypeScript**
+- **Python**
 
 ### Web Development
-- **HTML**
-- **CSS**
-- **React**
+- **ReactJS**
 - **Node.js**
 - **NextJS**
+- **FastAPI**
+
+### AI&ML
+- **Tensorflow**
+- **Transformer**
+- **LLM**
 
 ### Tools & Technologies
 - **Git & GitHub**
 - **Docker**
-- **Kubernetes**
 - **Jenkins**
 - **CI/CD**
 
